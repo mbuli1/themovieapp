@@ -1,3 +1,14 @@
+Šifra tima: R28
+
+
+Naziv aplikacije: TheMovieApp
+
+
+Opis: Jednostavna aplikacija za dodavanje filmova i mogućnost kometiranja istih.
+
+
+Korištene tehnologije: Vue js, Firebase, Bootstrap Vue
+
 # projekt
 
 ## Project setup
